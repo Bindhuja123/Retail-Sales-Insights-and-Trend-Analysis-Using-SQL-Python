@@ -35,7 +35,7 @@ This project is an end-to-end data analysis solution designed to extract critica
 * Data Filtering & Sorting: WHERE, GROUP BY, ORDER BY, LIMIT CLAUSES
 * JOIN Operations: INNER JOIN, LEFT JOIN, RIGHT JOIN
 * Window Functions: ROW_NUMBER(), RANK()
-* SUBQUERIES, CTE, CASE, DATE FUNCTIONS
+* Subqueries, CTE, Case, Date functions
 
 ## Results and Insights
 This section will include your analysis findings:
