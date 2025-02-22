@@ -30,6 +30,13 @@ This project is an end-to-end data analysis solution designed to extract critica
 * SQL Databases: MySQL, PostgreSQL
 * Python Libraries: pandas, numpy, sqlalchemy, mysql-connector-python, psycopg2
 
+## SQL and Python Skills
+* Advanced Data Aggregation: COUNT(), SUM(), AVG()
+* Data Filtering & Sorting: WHERE, GROUP BY, ORDER BY, LIMIT CLAUSES
+* JOIN Operations: INNER JOIN, LEFT JOIN, RIGHT JOIN
+* Window Functions: ROW_NUMBER(), RANK()
+* SUBQUERIES, CTE, CASE, DATE FUNCTIONS
+
 ## Results and Insights
 This section will include your analysis findings:
 * Sales Insights: Key categories, branches with highest sales, and preferred payment methods.
