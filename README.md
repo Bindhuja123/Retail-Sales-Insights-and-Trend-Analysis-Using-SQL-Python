@@ -1,7 +1,7 @@
 # Retail-Sales-Insights-and-Trend-Analysis-Using-SQL-Python
 This project is an end-to-end data analysis solution designed to extract critical business insights from Retail sales data. We utilize SQL for advanced querying, and structured problem-solving techniques to solve key business questions. Python for data processing and analysis, ETL (Extract, Transform, Load) using SQLAlchemy.This method is often used for data migration, analytics, and ETL workflows in data engineering. The project is ideal for data analysts looking to develop skills in data manipulation, SQL querying, and data pipeline creation.
 
-![Project Screenshot](https://github.com/user/repo/blob/main/screenshot.png)
+![Project Screenshot](Picture.jpg.png)
 
 ## 1. Explore the Data
 * Goal: Conduct an initial data exploration to understand data distribution, check column names, types, and identify potential issues.
